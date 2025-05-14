@@ -1,0 +1,11 @@
+Carrier_ID,Carrier_Name,Avg_Delivery_Cost,Defect_Rate
+C001,Carrier_1,104.96,0.07
+C002,Carrier_2,100.91,0.03
+C003,Carrier_3,84.25,0.06
+C004,Carrier_4,93.62,0.04
+C005,Carrier_5,101.88,0.09
+C006,Carrier_6,82.09,0.04
+C007,Carrier_7,79.32,0.03
+C008,Carrier_8,123.83,0.06
+C009,Carrier_9,56.69,0.02
+C010,Carrier_10,81.3,0.08
